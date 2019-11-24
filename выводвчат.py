@@ -2,5 +2,5 @@
 from mcpi.minecraft import Minecraft
 mc = Minecraft.create()
 #вывод в чат
-for i in range(20):
+for i in range(10):
     mc.postToChat("SALAM")
